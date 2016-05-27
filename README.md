@@ -4,4 +4,4 @@
 
 文章发布使用Issues的形式。手动维护发布，用心之作，欢迎Star和Fork。
 
-具体请进入：[文章列表]{https://github.com/kujian/frontendweekly/issues}
+具体请进入：[文章列表](https://github.com/kujian/frontendweekly/issues)
